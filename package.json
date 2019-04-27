@@ -1,0 +1,26 @@
+{
+  "name": "sea",
+  "version": "1.0.0",
+  "description": "slack emoji adder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReLaboratory/Sea.git"
+  },
+  "keywords": [
+    "slack",
+    "emoji"
+  ],
+  "author": "Wonjun Kim <kimjnsjwj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReLaboratory/Sea/issues"
+  },
+  "homepage": "https://github.com/ReLaboratory/Sea#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
