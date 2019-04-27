@@ -21,6 +21,14 @@
   },
   "homepage": "https://github.com/ReLaboratory/Sea#readme",
   "devDependencies": {
+    "@types/node": "^11.13.8",
+    "tslint": "^5.16.0",
+    "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "winston": "^3.2.1"
   }
 }
