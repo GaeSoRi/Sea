@@ -24,7 +24,7 @@
     "@types/node": "^11.13.8",
     "tslint": "^5.16.0",
     "tslint-config-airbnb": "^5.11.1",
-    "typescript": "^3.6.4"
+    "typescript": "^3.8.2"
   },
   "dependencies": {
     "@types/graceful-fs": "^4.1.3",
